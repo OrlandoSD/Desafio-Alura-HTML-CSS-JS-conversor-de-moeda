@@ -1,4 +1,4 @@
-# Desafio-Alura-HTML-CSS-conversor-de-moeda-JS
+# Desafio-Alura-HTML-CSS-JS-conversor-de-moeda
 Conversor de valor em  moeda  Wons
 
 # Conversor de Moedas - Reais para Wons
