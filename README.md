@@ -21,5 +21,5 @@ Este projeto é um simples conversor de moedas que permite converter valores de 
 1. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/OrlandoSD/Desafio-Alura-HTML-CSS-JS-conversor-de-moeda
 
